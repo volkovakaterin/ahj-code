@@ -1,4 +1,3 @@
-/*eslint-enable no-unused-vars*/
 /*eslint-disable no-unused-vars*/
 // TODO: write code here
 
@@ -11,3 +10,4 @@ export default function demo(value) {
 }
 
 console.log('app.js included');
+/*eslint-enable no-unused-vars*/
